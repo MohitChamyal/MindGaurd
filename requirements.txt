@@ -1,0 +1,25 @@
+# Main application dependencies
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.0.2
+google-generativeai>=0.3.0
+langgraph>=0.0.20
+transformers>=4.35.0
+python-dotenv>=1.0.0
+faiss-cpu>=1.7.4
+torch>=2.0.0
+numpy>=1.24.0
+presidio-analyzer>=2.2.0
+presidio-anonymizer>=2.2.0
+fastapi>=0.109.0
+uvicorn>=0.27.0
+pydantic>=2.6.0 
+
+# Exercise module dependencies 
+opencv-python>=4.8.0
+# MediaPipe 0.10.13 version is compatible with Python 3.12
+mediapipe==0.10.13
+absl-py>=1.0.0
+attrs>=21.0.0
+protobuf>=3.20.0
+six>=1.16.0 

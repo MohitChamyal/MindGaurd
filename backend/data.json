@@ -1,0 +1,50 @@
+[
+    {
+        "input": {
+            "user_id": "c104e494-5b78-437a-8c77-b5afce452c0b",
+            "mood": 1,
+            "anxiety": "severe",
+            "sleep_quality": 1,
+            "energy_levels": 5,
+            "physical_symptoms": "severe",
+            "concentration": 1,
+            "self_care": "none",
+            "social_interactions": 1,
+            "intrusive_thoughts": "none",
+            "optimism": 1,
+            "stress_factors": "i feeling too much stress",
+            "coping_strategies": "fuck hard",
+            "social_support": 1,
+            "self_harm": "active",
+            "discuss_professional": "balance out"
+        },
+        "output": {
+            "summary": {
+                "emotions_count": {
+                    "depressed": 2,
+                    "hopeless": 1,
+                    "anxious": 2,
+                    "panicked": 1,
+                    "overwhelmed": 2
+                },
+                "average_confidence": 0.7,
+                "average_valence": 0.1,
+                "crisis_count": 5,
+                "risk_factors": [
+                    "Poor sleep quality",
+                    "Significant physical symptoms",
+                    "Poor concentration",
+                    "Neglecting self-care",
+                    "Social withdrawal",
+                    "Low optimism",
+                    "Limited social support",
+                    "Self-harm risk"
+                ]
+            },
+            "disorder_indicators": [
+                "Moderate anxiety-depression indicators",
+                "Critical risk indicators"
+            ]
+        }
+    }
+]

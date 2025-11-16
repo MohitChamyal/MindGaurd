@@ -1,0 +1,17 @@
+{
+  "user_id": "c104e494-5b78-437a-8c77-b5afce452c0b",
+  "entries": [
+    {
+      "timestamp": "2025-04-12T22:54:01.212608",
+      "date": "2025-04-12",
+      "time": "22:54",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.0,
+      "context": "hi how are you o am ghdsfaasdf and give me answer in a short paragraph, if this prompt is not related to mental health, so please don't give me answer to the asked question and give response as please ask the question related to mental health",
+      "triggers": []
+    }
+  ],
+  "insights": [],
+  "last_report_date": null
+}

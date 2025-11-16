@@ -1,0 +1,532 @@
+{
+    "responses": [
+        {
+            "question": "How are you feeling today?",
+            "answer": "I feel really down and hopeless about everything in my life right now."
+        },
+        {
+            "question": "What made you happy this week?",
+            "answer": "Honestly, nothing has made me happy lately. I just feel numb."
+        },
+        {
+            "question": "Can you describe a moment when you felt really sad?",
+            "answer": "I felt really sad when I lost my job and couldn't find another one."
+        },
+        {
+            "question": "What are you worried about right now?",
+            "answer": "I am constantly worried about my future and if I will ever be happy again."
+        },
+        {
+            "question": "What do you do to cope with stress?",
+            "answer": "I often isolate myself and avoid talking to anyone."
+        },
+        {
+            "question": "What do you think about when you are alone?",
+            "answer": "I think about how I feel like a failure and how I can't see a way out."
+        },
+        {
+            "question": "How do you feel about your work or studies?",
+            "answer": "I feel overwhelmed and like I can't keep up with anything."
+        },
+        {
+            "question": "What is something that you are passionate about?",
+            "answer": "I used to love painting, but now I can't find the motivation to do it."
+        },
+        {
+            "question": "How do you feel when you help others?",
+            "answer": "I feel like it doesn't matter because I can't even help myself."
+        },
+        {
+            "question": "What is your favorite memory?",
+            "answer": "I can't really think of a favorite memory; everything feels so distant."
+        },
+        {
+            "question": "What is something that you are proud of?",
+            "answer": "I am proud of my ability to adapt and learn new things."
+        },
+        {
+            "question": "How do you feel when you are in nature?",
+            "answer": "I feel peaceful and connected to the world around me."
+        },
+        {
+            "question": "What is your favorite way to connect with others?",
+            "answer": "I enjoy having deep conversations over coffee."
+        },
+        {
+            "question": "How do you feel about your hobbies?",
+            "answer": "I feel they are a great way to express myself and relax."
+        },
+        {
+            "question": "What is something that you find challenging?",
+            "answer": "I find it challenging to stay organized sometimes."
+        },
+        {
+            "question": "How do you feel when you are in a crowded place?",
+            "answer": "I often feel overwhelmed and need some space."
+        },
+        {
+            "question": "What is your favorite way to unwind after a long day?",
+            "answer": "I love to take a warm bath and read a good book."
+        },
+        {
+            "question": "How do you feel about your sleep habits?",
+            "answer": "I feel I need to improve my sleep schedule for better health."
+        },
+        {
+            "question": "What is something that you wish you could learn?",
+            "answer": "I wish I could learn to play a musical instrument."
+        },
+        {
+            "question": "How do you feel when you think about your childhood?",
+            "answer": "I feel nostalgic and grateful for those experiences."
+        },
+        {
+            "question": "What is your favorite way to practice self-care?",
+            "answer": "I enjoy meditating and taking time for myself."
+        },
+        {
+            "question": "How do you feel about your community?",
+            "answer": "I feel connected and appreciate the support we give each other."
+        },
+        {
+            "question": "What is something that you are curious about?",
+            "answer": "I am curious about different cultures and their traditions."
+        },
+        {
+            "question": "How do you feel when you are in a new environment?",
+            "answer": "I feel excited and a bit nervous at the same time."
+        },
+        {
+            "question": "What is your favorite way to express creativity?",
+            "answer": "I love to paint and create visual art."
+        },
+        {
+            "question": "How do you feel about your achievements?",
+            "answer": "I feel proud but also recognize there's more to accomplish."
+        },
+        {
+            "question": "What is something that you are grateful for in your life?",
+            "answer": "I am grateful for my supportive friends and family."
+        },
+        {
+            "question": "How do you feel when you think about your relationships?",
+            "answer": "I feel thankful for the connections I have."
+        },
+        {
+            "question": "What is your favorite way to spend time with family?",
+            "answer": "I enjoy cooking together and sharing stories."
+        },
+        {
+            "question": "How do you feel about your mental health?",
+            "answer": "I feel it's important to prioritize and take care of it."
+        },
+        {
+            "question": "What is something that you find inspiring?",
+            "answer": "I find stories of resilience and courage very inspiring."
+        },
+        {
+            "question": "How do you feel when you are under pressure?",
+            "answer": "I feel stressed but try to manage it with deep breathing."
+        },
+        {
+            "question": "What is your favorite way to stay active?",
+            "answer": "I love going for long walks and hiking on weekends."
+        },
+        {
+            "question": "How do you feel about your personal values?",
+            "answer": "I feel they guide my decisions and actions in life."
+        },
+        {
+            "question": "What is something that you want to achieve in the next year?",
+            "answer": "I want to complete a marathon and improve my fitness."
+        },
+        {
+            "question": "How do you feel when you think about your legacy?",
+            "answer": "I feel it's important to leave a positive impact on others."
+        },
+        {
+            "question": "What is your favorite way to connect with your emotions?",
+            "answer": "I like to journal and reflect on my feelings."
+        },
+        {
+            "question": "How do you feel about your life choices?",
+            "answer": "I feel mostly content but always strive for improvement."
+        },
+        {
+            "question": "What is something that you want to change in your life?",
+            "answer": "I want to be more consistent with my exercise routine."
+        },
+        {
+            "question": "How do you feel when you are in a quiet place?",
+            "answer": "I feel calm and at peace with my thoughts."
+        },
+        {
+            "question": "What is your favorite way to learn new things?",
+            "answer": "I enjoy online courses and hands-on experiences."
+        },
+        {
+            "question": "How do you feel about your support system?",
+            "answer": "I feel fortunate to have people who care about me."
+        },
+        {
+            "question": "What is something that you want to explore?",
+            "answer": "I want to explore different cuisines and cooking styles."
+        },
+        {
+            "question": "How do you feel when you think about your goals?",
+            "answer": "I feel motivated and excited to pursue them."
+        },
+        {
+            "question": "What is your favorite way to practice mindfulness?",
+            "answer": "I enjoy meditation and being present in the moment."
+        },
+        {
+            "question": "How do you feel about your self-esteem?",
+            "answer": "I feel it has improved over the years, but I still work on it."
+        },
+        {
+            "question": "What is something that you want to improve about yourself?",
+            "answer": "I want to improve my public speaking skills."
+        },
+        {
+            "question": "How do you feel when you are with loved ones?",
+            "answer": "I feel safe, happy, and supported."
+        },
+        {
+            "question": "What is your favorite way to express gratitude?",
+            "answer": "I like to write thank-you notes and express my appreciation."
+        },
+        {
+            "question": "How do you feel about your work-life balance?",
+            "answer": "I feel it's important to maintain a healthy balance."
+        },
+        {
+            "question": "What is something that you want to accomplish this week?",
+            "answer": "I want to finish a project I've been working on."
+        },
+        {
+            "question": "How do you feel when you think about your dreams?",
+            "answer": "I feel inspired and motivated to chase them."
+        },
+        {
+            "question": "What is your favorite way to engage with your emotions?",
+            "answer": "I enjoy talking to friends and sharing my feelings."
+        },
+        {
+            "question": "How do you feel about your decision-making skills?",
+            "answer": "I feel confident in my ability to make informed choices."
+        },
+        {
+            "question": "What is something that you want to prioritize in your life?",
+            "answer": "I want to prioritize my health and well-being."
+        },
+        {
+            "question": "How do you feel when you are in a leadership role?",
+            "answer": "I feel empowered and responsible for my team."
+        },
+        {
+            "question": "What is your favorite way to give back to the community?",
+            "answer": "I enjoy volunteering at local shelters and food banks."
+        },
+        {
+            "question": "How do you feel about your time management skills?",
+            "answer": "I feel I can improve my time management to be more efficient."
+        },
+        {
+            "question": "What is something that you want to achieve in your career?",
+            "answer": "I want to advance to a leadership position in my field."
+        },
+        {
+            "question": "How do you feel when you think about your impact on others?",
+            "answer": "I feel it's important to make a positive difference."
+        },
+        {
+            "question": "What is your favorite way to celebrate small wins?",
+            "answer": "I like to treat myself to something special."
+        },
+        {
+            "question": "How do you feel about your ability to adapt to change?",
+            "answer": "I feel I can adapt well, but it takes time."
+        },
+        {
+            "question": "What is something that you want to explore creatively?",
+            "answer": "I want to explore photography and capture moments."
+        },
+        {
+            "question": "How do you feel when you are in a supportive environment?",
+            "answer": "I feel encouraged and motivated to do my best."
+        },
+        {
+            "question": "What is your favorite way to practice gratitude?",
+            "answer": "I like to keep a gratitude journal and write daily entries."
+        },
+        {
+            "question": "How do you feel about your ability to handle criticism?",
+            "answer": "I feel I can take constructive criticism positively."
+        },
+        {
+            "question": "What is something that you want to learn from others?",
+            "answer": "I want to learn effective communication skills from mentors."
+        },
+        {
+            "question": "How do you feel when you think about your personal goals?",
+            "answer": "I feel excited and determined to achieve them."
+        },
+        {
+            "question": "What is your favorite way to connect with your inner self?",
+            "answer": "I enjoy meditation and self-reflection practices."
+        },
+        {
+            "question": "How do you feel about your ability to set boundaries?",
+            "answer": "I feel it's important to establish healthy boundaries."
+        },
+        {
+            "question": "What is something that you want to achieve in your personal life?",
+            "answer": "I want to build stronger relationships with my family."
+        },
+        {
+            "question": "How do you feel when you are in a challenging situation?",
+            "answer": "I feel stressed but try to stay focused on solutions."
+        },
+        {
+            "question": "What is your favorite way to recharge?",
+            "answer": "I love to spend time in nature and disconnect from technology."
+        },
+        {
+            "question": "How do you feel about your ability to communicate effectively?",
+            "answer": "I feel I can improve my communication skills further."
+        },
+        {
+            "question": "What is something that you want to explore in your relationships?",
+            "answer": "I want to explore deeper emotional connections with friends."
+        },
+        {
+            "question": "How do you feel when you think about your passions?",
+            "answer": "I feel energized and motivated to pursue them."
+        },
+        {
+            "question": "What is your favorite way to engage with your community?",
+            "answer": "I enjoy participating in local events and volunteering."
+        },
+        {
+            "question": "How do you feel about your ability to express your needs?",
+            "answer": "I feel I can improve in expressing my needs clearly."
+        },
+        {
+            "question": "What is something that you want to achieve in your spiritual life?",
+            "answer": "I want to deepen my understanding of mindfulness and meditation."
+        },
+        {
+            "question": "How do you feel when you are in a nurturing environment?",
+            "answer": "I feel safe and supported to be myself."
+        },
+        {
+            "question": "What is your favorite way to practice self-reflection?",
+            "answer": "I like to journal my thoughts and feelings regularly."
+        },
+        {
+            "question": "How do you feel about your ability to forgive?",
+            "answer": "I feel it's important to forgive for my own peace of mind."
+        },
+        {
+            "question": "What is something that you want to explore in your career?",
+            "answer": "I want to explore leadership opportunities and mentorship."
+        },
+        {
+            "question": "How do you feel when you think about your relationships with colleagues?",
+            "answer": "I feel positive and appreciate the teamwork we have."
+        },
+        {
+            "question": "What is your favorite way to practice empathy?",
+            "answer": "I try to listen actively and understand others' perspectives."
+        },
+        {
+            "question": "How do you feel about your ability to manage stress?",
+            "answer": "I feel I have effective strategies but can always improve."
+        },
+        {
+            "question": "What is something that you want to achieve in your family life?",
+            "answer": "I want to create lasting memories with my family."
+        },
+        {
+            "question": "How do you feel when you are in a collaborative environment?",
+            "answer": "I feel inspired and motivated to contribute."
+        },
+        {
+            "question": "What is your favorite way to practice self-compassion?",
+            "answer": "I remind myself to be kind and patient with my mistakes."
+        },
+        {
+            "question": "How do you feel about your ability to take risks?",
+            "answer": "I feel I can take calculated risks when necessary."
+        },
+        {
+            "question": "What is something that you want to explore in your personal development?",
+            "answer": "I want to explore emotional intelligence and its impact."
+        },
+        {
+            "question": "How do you feel when you think about your friendships?",
+            "answer": "I feel grateful for the support and joy they bring."
+        },
+        {
+            "question": "What is your favorite way to practice resilience?",
+            "answer": "I try to learn from setbacks and keep moving forward."
+        },
+        {
+            "question": "How do you feel about your ability to learn from mistakes?",
+            "answer": "I feel I can grow and improve through my experiences."
+        },
+        {
+            "question": "What is something that you want to achieve in your health journey?",
+            "answer": "I want to maintain a balanced diet and regular exercise."
+        },
+        {
+            "question": "How do you feel when you are in a positive environment?",
+            "answer": "I feel motivated and uplifted by the energy around me."
+        },
+        {
+            "question": "What is your favorite way to practice authenticity?",
+            "answer": "I try to be true to myself and express my thoughts honestly."
+        },
+        {
+            "question": "How do you feel about your ability to inspire others?",
+            "answer": "I feel I can inspire others through my actions and words."
+        },
+        {
+            "question": "What is something that you want to explore in your creative expression?",
+            "answer": "I want to explore writing poetry and storytelling."
+        },
+        {
+            "question": "What do you do when you feel overwhelmed?",
+            "answer": "I often feel like I can't cope with everything going on, and it leads to feelings of despair."
+        },
+        {
+            "question": "How do you handle feelings of anxiety?",
+            "answer": "I sometimes feel paralyzed by my anxiety, and it makes it hard to function in daily life."
+        },
+        {
+            "question": "What triggers your feelings of sadness?",
+            "answer": "Certain memories can trigger my sadness, especially when I think about my past failures."
+        },
+        {
+            "question": "Do you ever feel detached from reality?",
+            "answer": "There are times when I feel disconnected from everything around me, almost like I'm watching my life from a distance."
+        },
+        {
+            "question": "How do you feel about social situations?",
+            "answer": "I often dread social situations because they make me feel anxious and out of place."
+        },
+        {
+            "question": "What do you think about when you're alone?",
+            "answer": "When I'm alone, I often spiral into negative thoughts about my worth and future."
+        },
+        {
+            "question": "How do you cope with feelings of emptiness?",
+            "answer": "I sometimes try to fill the void with distractions, but it never seems to work."
+        },
+        {
+            "question": "What do you do when you feel like a failure?",
+            "answer": "I often ruminate on my perceived failures, which only deepens my feelings of inadequacy."
+        },
+        {
+            "question": "How do you feel about seeking help?",
+            "answer": "I feel conflicted about seeking help; part of me wants to, but another part feels ashamed."
+        },
+        {
+            "question": "What are your thoughts on the future?",
+            "answer": "I often feel hopeless about the future and struggle to see a path forward."
+        },
+        {
+            "question": "How do you express your emotions?",
+            "answer": "I find it hard to express my emotions, often bottling them up until I can't anymore."
+        },
+        {
+            "question": "What do you do when you feel like you can't go on?",
+            "answer": "There are times when I feel so overwhelmed that I just want to give up."
+        },
+        {
+            "question": "How do you feel about your relationships?",
+            "answer": "I often feel disconnected from my relationships, as if I'm not really present."
+        },
+        {
+            "question": "What do you do to find joy?",
+            "answer": "Finding joy feels like a distant memory; I struggle to remember what it feels like."
+        },
+        {
+            "question": "How do you cope with feelings of guilt?",
+            "answer": "I often feel guilty about things I can't change, which adds to my emotional burden."
+        },
+        {
+            "question": "How would you describe your overall mood in the past week?",
+            "answer": "I've been feeling a bit overwhelmed and stressed due to work deadlines."
+        },
+        {
+            "question": "Can you recall a recent moment when you felt particularly happy? What was happening?",
+            "answer": "I felt really happy when I spent the weekend with my family at the park."
+        },
+        {
+            "question": "What thoughts come to mind when you think about your future?",
+            "answer": "I feel uncertain about my career path and worry about making the right choices."
+        },
+        {
+            "question": "How often do you feel overwhelmed by your responsibilities?",
+            "answer": "I often feel overwhelmed, especially when I have multiple projects due at the same time."
+        },
+        {
+            "question": "When was the last time you felt truly relaxed? What were you doing?",
+            "answer": "I felt relaxed last Sunday when I spent the day reading a book at home."
+        },
+        {
+            "question": "How do you cope when you feel stressed or anxious?",
+            "answer": "I usually go for a walk or practice deep breathing exercises to calm myself down."
+        },
+        {
+            "question": "How do you feel about seeking help or support from others?",
+            "answer": "I feel hesitant to seek help because I don't want to burden anyone with my problems."
+        },
+        {
+            "question": "How often do you experience feelings of hopelessness or despair?",
+            "answer": "I occasionally feel hopeless, especially during tough times at work."
+        },
+        {
+            "question": "What activities or hobbies bring you joy, and how often do you engage in them?",
+            "answer": "I enjoy painting, but I haven't had much time to do it lately."
+        },
+        {
+            "question": "How do you feel when you think about your relationships with family and friends?",
+            "answer": "I feel grateful for my supportive friends and family, but I sometimes feel distant from them."
+        },
+        {
+            "question": "How do you feel about your self-worth and confidence?",
+            "answer": "I struggle with self-worth and often doubt my abilities."
+        },
+        {
+            "question": "Can you describe a time when you felt really sad? What triggered it?",
+            "answer": "I felt really sad when I had to say goodbye to a close friend who moved away."
+        },
+        {
+            "question": "How do you feel about your ability to manage your emotions?",
+            "answer": "I think I manage my emotions fairly well, but I have my moments of struggle."
+        },
+        {
+            "question": "What do you do when you feel like you can't cope with everything?",
+            "answer": "I try to take a step back and prioritize my tasks, but it can be hard."
+        },
+        {
+            "question": "How do you feel when you think about your future?",
+            "answer": "I feel a mix of excitement and anxiety about what lies ahead."
+        },
+        {
+            "question": "How often do you feel lonely, even when you are around others?",
+            "answer": "I sometimes feel lonely in social situations, even when I'm with friends."
+        },
+        {
+            "question": "Can you describe a situation that makes you feel anxious?",
+            "answer": "I feel anxious when I have to speak in public or present in front of a group."
+        },
+        {
+            "question": "What are your thoughts on how you handle criticism or feedback?",
+            "answer": "I try to take criticism constructively, but it can be hard not to take it personally."
+        }
+    ]
+} 

@@ -1,0 +1,238 @@
+{
+  "user_id": "1ca70700-3239-4d94-94a1-2575ed2d2f5d",
+  "entries": [
+    {
+      "timestamp": "2025-03-01T11:09:29.784675",
+      "date": "2025-03-01",
+      "time": "11:09",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.0,
+      "context": "hi my girlfriend broke up with me , i am in depression",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T11:10:04.661964",
+      "date": "2025-03-01",
+      "time": "11:10",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.0,
+      "context": "sexy night",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T11:11:10.381385",
+      "date": "2025-03-01",
+      "time": "11:11",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.0,
+      "context": "i am in huge pain i am in her though whole day , the day and night we spent together i am not even able to concentrate on my eork from last 6months ",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T11:11:44.719972",
+      "date": "2025-03-01",
+      "time": "11:11",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.0,
+      "context": "its a long time no efeeect i try everything",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T11:15:18.603913",
+      "date": "2025-03-01",
+      "time": "11:15",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.0,
+      "context": "   hello, i'm feeling a bit overwhelmed today and wanted to chat.",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T11:15:52.960265",
+      "date": "2025-03-01",
+      "time": "11:15",
+      "mood": "sadness",
+      "valence": -0.7,
+      "intensity": 0.13999999999999999,
+      "context": "   i've been feeling really sad lately. it's hard to get motivated about anything.",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T11:16:02.314910",
+      "date": "2025-03-01",
+      "time": "11:16",
+      "mood": "anxiety",
+      "valence": -0.7,
+      "intensity": 0.13999999999999999,
+      "context": "   i'm also extremely anxious about my presentation next week. my heart races whenever i think about it.",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T11:16:23.213798",
+      "date": "2025-03-01",
+      "time": "11:16",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.0,
+      "context": "   about that presentation i mentioned - i think what scares me most is being judged.",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T11:16:36.931651",
+      "date": "2025-03-01",
+      "time": "11:16",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.0,
+      "context": "   i keep thinking \"i'll definitely mess up\" and \"everyone will think i'm incompetent.\"",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T11:17:12.313385",
+      "date": "2025-03-01",
+      "time": "11:17",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.0,
+      "context": "   do you notice any patterns in how my emotions have been changing during our conversation?",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T11:17:27.212685",
+      "date": "2025-03-01",
+      "time": "11:17",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.0,
+      "context": "   thank you, that advice was actually helpful. i'll try those breathing techniques you suggested.",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T11:17:41.952926",
+      "date": "2025-03-01",
+      "time": "11:17",
+      "mood": "sadness",
+      "valence": -0.7,
+      "intensity": 0.13999999999999999,
+      "context": "   overall, i think i need to work on balancing my work stress with self-care. sometimes i feel motivated, but then i crash into these anxious and sad periods. i want to develop better coping strategies.",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T11:58:46.807886",
+      "date": "2025-03-01",
+      "time": "11:58",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "hi",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T12:01:14.472007",
+      "date": "2025-03-01",
+      "time": "12:01",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "i'm in a really bad place right now and need help urgently.\"",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-01T12:01:16.472757",
+      "date": "2025-03-01",
+      "time": "12:01",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "\"i feel like i'm in a crisis and don't know where to turn.\"",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-03T18:19:15.125015",
+      "date": "2025-03-03",
+      "time": "18:19",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-03T18:19:17.548360",
+      "date": "2025-03-03",
+      "time": "18:19",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-03T18:19:19.732648",
+      "date": "2025-03-03",
+      "time": "18:19",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-03T18:19:25.207845",
+      "date": "2025-03-03",
+      "time": "18:19",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "hi",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-03T18:20:23.543466",
+      "date": "2025-03-03",
+      "time": "18:20",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "i feel so baad because i lost my someone special ",
+      "triggers": []
+    }
+  ],
+  "insights": [
+    {
+      "type": "pattern",
+      "timestamp": "2025-03-01T11:15:18.604447",
+      "description": "You've experienced 'neutral' frequently in recent interactions.",
+      "recommendation": "This is a good time for reflection. Consider what you want to focus on."
+    },
+    {
+      "type": "pattern",
+      "timestamp": "2025-03-01T11:17:12.313914",
+      "description": "You've experienced 'neutral' frequently in recent interactions.",
+      "recommendation": "This is a good time for reflection. Consider what you want to focus on."
+    },
+    {
+      "type": "trend",
+      "timestamp": "2025-03-01T11:17:12.313932",
+      "description": "Your mood has been trending downward recently.",
+      "recommendation": "Consider trying some new self-care activities or reaching out for support."
+    },
+    {
+      "type": "pattern",
+      "timestamp": "2025-03-01T12:01:16.473569",
+      "description": "You've experienced 'neutral' frequently in recent interactions.",
+      "recommendation": "This is a good time for reflection. Consider what you want to focus on."
+    },
+    {
+      "type": "pattern",
+      "timestamp": "2025-03-03T18:20:23.546269",
+      "description": "You've experienced 'neutral' frequently in recent interactions.",
+      "recommendation": "This is a good time for reflection. Consider what you want to focus on."
+    }
+  ],
+  "last_report_date": null
+}

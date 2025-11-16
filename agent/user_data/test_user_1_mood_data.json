@@ -1,0 +1,17 @@
+{
+  "user_id": "test_user_1",
+  "entries": [
+    {
+      "timestamp": "2025-11-09T12:50:42.827356",
+      "date": "2025-11-09",
+      "time": "12:50",
+      "mood": "fear",
+      "valence": -0.7,
+      "intensity": 0.6963220119476318,
+      "context": "hello, i am feeling anxious today and give me answer in a short paragraph, if this prompt is not related to mental health, so please don't give me answer to the asked question and give response as please ask the question related to mental health",
+      "triggers": []
+    }
+  ],
+  "insights": [],
+  "last_report_date": null
+}

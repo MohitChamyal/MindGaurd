@@ -1,0 +1,27 @@
+{
+  "user_id": "4981f5ea-170b-489e-9832-0509dbc71feb",
+  "entries": [
+    {
+      "timestamp": "2025-04-12T16:38:34.251511",
+      "date": "2025-04-12",
+      "time": "16:38",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "what are some mindfulness exercises for anxiety?",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-04-12T16:38:39.825031",
+      "date": "2025-04-12",
+      "time": "16:38",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "how do i recognize signs of burnout?",
+      "triggers": []
+    }
+  ],
+  "insights": [],
+  "last_report_date": null
+}

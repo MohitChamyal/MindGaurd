@@ -1,0 +1,87 @@
+{
+  "user_id": "b1acb0d2-752f-46e5-adb8-3b6a03263d9a",
+  "entries": [
+    {
+      "timestamp": "2025-03-08T16:37:57.288604",
+      "date": "2025-03-08",
+      "time": "16:37",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.0,
+      "context": "what are some mindfulness exercises for anxiety?",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-09T03:35:54.330611",
+      "date": "2025-03-09",
+      "time": "03:35",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "hi",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-09T03:37:35.065719",
+      "date": "2025-03-09",
+      "time": "03:37",
+      "mood": "sadness",
+      "valence": -0.7,
+      "intensity": 0.21,
+      "context": "hi i am priyanshu and i am so a little depressed today can you help me suggest some exercises",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-09T03:42:30.536773",
+      "date": "2025-03-09",
+      "time": "03:42",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "what are some mindfulness exercises for anxiety?",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-09T04:16:51.732383",
+      "date": "2025-03-09",
+      "time": "04:16",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "hello",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-09T04:16:53.663416",
+      "date": "2025-03-09",
+      "time": "04:16",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "hello",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-09T04:17:11.712016",
+      "date": "2025-03-09",
+      "time": "04:17",
+      "mood": "neutral",
+      "valence": 0.0,
+      "intensity": 0.1,
+      "context": "hello i am archit agarwal and i am little depressed today",
+      "triggers": []
+    },
+    {
+      "timestamp": "2025-03-09T04:17:27.618055",
+      "date": "2025-03-09",
+      "time": "04:17",
+      "mood": "crisis",
+      "valence": -0.9,
+      "intensity": 0.9,
+      "context": "my girlfriend has broken up with me and i am feeling so much stress and now feeling to suicide",
+      "triggers": []
+    }
+  ],
+  "insights": [],
+  "last_report_date": null
+}

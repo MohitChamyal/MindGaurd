@@ -1,0 +1,17 @@
+{
+  "ignore": ["temp/*", "uploads/*"],
+  "verbose": true,
+  "execMap": {
+    "js": "node"
+  },
+  "watch": [
+    "server.js",
+    "routes/",
+    "models/",
+    "middleware/"
+  ],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "ext": "js,json"
+} 

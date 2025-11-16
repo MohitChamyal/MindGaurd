@@ -1,0 +1,31 @@
+// MongoDB queries to check data saved by PDF analyzer
+
+// Query to check if PDF reports were saved in HealthReport collection
+db.healthreports.find({ userId: 'c104e494-5b78-437a-8c77-b5afce452c0b', reportType: 'pdf-upload' })
+
+// Query to check if PDF reports were saved in UserInteraction collection
+db.userinteractions.find({ userId: 'c104e494-5b78-437a-8c77-b5afce452c0b', interactionType: 'report' })
+
+// Count all health reports for this user
+db.healthreports.countDocuments({ userId: 'c104e494-5b78-437a-8c77-b5afce452c0b' })
+
+// Check all user interactions
+db.userinteractions.countDocuments({ userId: 'c104e494-5b78-437a-8c77-b5afce452c0b' })
+
+// Find the most recent 5 interactions for this user
+db.userinteractions.find({ userId: 'c104e494-5b78-437a-8c77-b5afce452c0b' }).sort({ startTime: -1 }).limit(5)
+
+// Find reports by file path (replace with the actual path from logs)
+db.healthreports.find({ reportPath: 'D:\\Projects\\MindGuard\\backend\\uploads\\report-1744565204443-10167974.pdf' })
+
+// Look for any reports uploaded today (replace date with current date as needed)
+db.healthreports.find({ timestamp: { $gte: new Date("2023-12-11T00:00:00Z") } })
+
+// Check if any PDF uploads failed to process
+db.userinteractions.find({ 
+  interactionType: 'report', 
+  $or: [
+    { questionnaireResponses: { $size: 0 } },
+    { questionnaireResponses: { $exists: false } }
+  ]
+}) 

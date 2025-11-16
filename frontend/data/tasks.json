@@ -1,0 +1,10 @@
+[
+  {
+    "id": "task3",
+    "completed": true,
+    "progress": 100,
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_153102.mp4",
+    "walkingPercentage": 50,
+    "completedAt": "2025-04-21T10:01:02.862Z"
+  }
+]

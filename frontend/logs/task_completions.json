@@ -1,0 +1,184 @@
+[
+  {
+    "timestamp": "2025-04-21T06:33:26.949Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_120322.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T06:34:38.838Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_120438.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T06:41:05.836Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_121105.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T06:48:03.300Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_121802.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T06:53:21.009Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_122320.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T07:04:54.270Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_123453.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T07:05:11.950Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_123511.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T07:06:12.933Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_123612.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T07:09:15.176Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_123915.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T07:09:34.277Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_123934.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T07:09:55.410Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_123955.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T07:30:43.849Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_130036.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T07:34:11.330Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_130409.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T07:39:59.989Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_130958.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T08:46:20.219Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_141614.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T08:47:09.544Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_141709.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T08:52:01.918Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_142158.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T09:00:34.280Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_143030.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T09:00:50.905Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_143050.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T09:01:03.254Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_143103.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T09:06:53.694Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_143653.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T09:08:01.216Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_143801.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T09:09:45.989Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_143945.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T09:39:39.877Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_150931.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T09:53:52.878Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_152348.mp4",
+    "walkingPercentage": 50
+  },
+  {
+    "timestamp": "2025-04-21T10:01:02.864Z",
+    "action": "task_completed",
+    "taskId": "task3",
+    "videoPath": "exercise\\standalone\\video\\analysis_20250421_153102.mp4",
+    "walkingPercentage": 50
+  }
+]

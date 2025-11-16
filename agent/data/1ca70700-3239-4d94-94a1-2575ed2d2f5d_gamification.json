@@ -1,0 +1,23 @@
+{
+  "user_id": "1ca70700-3239-4d94-94a1-2575ed2d2f5d",
+  "created_at": "2025-03-01T11:08:56.423184",
+  "points": 0,
+  "level": 1,
+  "tier": "bronze",
+  "streak": {
+    "current": 0,
+    "longest": 0,
+    "last_check_in": null
+  },
+  "achievements": {},
+  "activity_counts": {
+    "mood_check_ins": 0,
+    "cbt_exercises": 0,
+    "meditation_minutes": 0,
+    "journal_entries": 0,
+    "music_therapy_sessions": 0,
+    "crisis_tool_uses": 0
+  },
+  "emotions_recorded": [],
+  "rewards_claimed": []
+}
